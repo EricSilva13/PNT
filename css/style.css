@@ -1,0 +1,73 @@
+body{
+  background-color: #1c2c47;
+}
+.jumbotron{
+  background-color: rgba(236, 245, 232, 0.856);
+}
+.display-4{  
+  position: relative;
+  font-family: 'Pragati Narrow', sans-serif;
+  font-size: 90px;  
+  -webkit-text-stroke: 1px rgba(128, 240, 255, 1);  
+  color: rgba(28, 44, 71, 1)
+}
+.lead{
+      
+    font-family: 'Pragati Narrow', sans-serif;
+    font-size: normal;         
+    color: #0b4249;  
+  }
+
+.subtitulo{         
+    font-family: 'Pragati Narrow', sans-serif;
+    font-size: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;      
+    color: #156772;  
+}
+.form-check-label{  
+  color:#80F0FF;
+}
+.container{
+  padding-top: 130px;
+  width: 500px; 
+  height: 200px;
+  color:#80F0FF;
+  font-family: 'Pragati Narrow', sans-serif;
+  font-size: normal;    
+}
+.senha{
+  color:#80F0FF;
+  font-family: 'Pragati Narrow', sans-serif;
+  font-size: normal;
+  
+}
+.tab-pane{
+    position: absolute;
+    font-family: 'Pragati Narrow', sans-serif;
+    font-size: normal;         
+    color: #80F0FF; 
+    left: 20px;
+}
+.nav-link{
+  color: #80F0FF;
+  position: relative;
+  left: 20px;
+}
+.titi{
+  padding-top: 130px;
+  width: 500px; 
+   
+  font-family: 'Pragati Narrow', sans-serif;
+  font-size: 90px;  
+  -webkit-text-stroke: 2px rgba(128, 240, 255, 1);  
+  color: rgba(28, 44, 71, 1)
+}
+.container-ce{  
+  margin-top: 100px;      
+  text-align: center;      
+  color:#80F0FF;
+  font-family: 'Pragati Narrow', sans-serif;
+  font-size: normal; 
+}
